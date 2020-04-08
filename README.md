@@ -1,2 +1,2 @@
 # paulhkoehler
-paulhkoehler.de
+Hosting for paulhkoehler.de
